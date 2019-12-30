@@ -1,0 +1,5 @@
+﻿  ListReverse.cpp
+  ReverseList2.cpp
+  正在生成代码...
+ReverseList2.obj : error LNK2005: _main 已经在 ListReverse.obj 中定义
+E:\Visual Studio2017\List Table\List Table\Debug\List Table.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
